@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-23T22:11:04.618Z'
+datePublished: '2016-08-23T22:14:07.992Z'
+sourcePath: _posts/2016-08-23-environmental-portraits.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T22:11:04.222Z'
+dateModified: '2016-08-23T22:14:07.501Z'
 title: Environmental Portraits
 id: ef822923-33d4-4d51-80d3-bf50101b34fb
 publisher: {}
 description: ''
-sourcePath: _posts/2016-08-23-environmental-portraits.md
 starred: true
 url: environmental-portraits/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Environmental Portraits
