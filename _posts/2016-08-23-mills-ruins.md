@@ -1,18 +1,17 @@
 ---
-id: bc89d20c-9e29-4b82-8607-a4c8b669d835
-dateModified: '2016-08-23T22:07:39.323Z'
-title: Mills Ruins
-datePublished: '2016-08-23T22:07:39.985Z'
-author: []
-description: ''
-publisher: {}
-via: {}
-starred: true
+datePublished: '2016-08-23T22:07:50.435Z'
 sourcePath: _posts/2016-08-23-mills-ruins.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T22:07:49.665Z'
+title: Mills Ruins
+id: bc89d20c-9e29-4b82-8607-a4c8b669d835
+publisher: {}
+description: ''
+starred: true
+url: mills-ruins/index.html
+_type: Blurb
 
 ---
 # Mills Ruins
