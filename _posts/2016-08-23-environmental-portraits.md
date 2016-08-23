@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-08-23T21:23:25.323Z'
-datePublished: '2016-08-23T21:23:25.691Z'
+dateModified: '2016-08-23T21:23:28.641Z'
+datePublished: '2016-08-23T21:23:29.022Z'
 title: 'Environmental Portraits '
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-23-environmental-portraits.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
