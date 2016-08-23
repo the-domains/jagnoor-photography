@@ -1,20 +1,21 @@
 ---
-datePublished: '2016-08-23T21:35:43.514Z'
-sourcePath: _posts/2016-08-23-environmental-portraits.md
-inFeed: true
+datePublished: '2016-08-23T22:08:00.474Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T21:35:43.085Z'
-title: 'Environmental Portraits '
+dateModified: '2016-08-23T22:08:00.062Z'
+title: Environmental Portraits
+id: ef822923-33d4-4d51-80d3-bf50101b34fb
 publisher: {}
 description: ''
 starred: true
+sourcePath: _posts/2016-08-23-environmental-portraits.md
 url: environmental-portraits/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Environmental Portraits ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8d270e-2af6-40e5-983f-fa1edaf9b751.jpg)
+# Environmental Portraits
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f8d270e-2af6-40e5-983f-fa1edaf9b751.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ced36ecc-f7b1-4869-a45c-62b8b93586fe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f54ac39-a2c9-424b-a581-60a9172ea031.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5d5c44a-3977-4cc4-9080-21a3ecf0062f.jpg)
