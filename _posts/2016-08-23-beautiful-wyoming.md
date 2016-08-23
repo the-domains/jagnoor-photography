@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-23T21:37:20.762Z'
-sourcePath: _posts/2016-08-23-beautiful-wyoming.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-23T21:37:20.283Z'
-title: Beautiful Wyoming
-publisher: {}
 description: ''
+dateModified: '2016-08-23T21:37:07.533Z'
+datePublished: '2016-08-23T21:37:09.764Z'
+title: Beautiful Wyoming
+author: []
+publisher: {}
+via: {}
 starred: false
-url: beautiful-wyoming/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-23-beautiful-wyoming.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Beautiful Wyoming
