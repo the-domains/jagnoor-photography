@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-23T22:07:50.435Z'
+datePublished: '2016-08-23T22:13:09.092Z'
 sourcePath: _posts/2016-08-23-mills-ruins.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-23T22:07:49.665Z'
+dateModified: '2016-08-23T22:13:08.211Z'
 title: Mills Ruins
 id: bc89d20c-9e29-4b82-8607-a4c8b669d835
 publisher: {}
 description: ''
 starred: true
 url: mills-ruins/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Mills Ruins
