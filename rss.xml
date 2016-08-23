@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jagnoor Photography]]></title>
+        <description><![CDATA[Jagnoor Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Aug 2016 22:13:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mills Ruins]]></title>
+            <description><![CDATA[<article><h1>Mills Ruins</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6863971-ef81-4508-a0de-7012787aeb28.jpg"></article>]]></description>
+            <link>undefinedmills-ruins/index.html</link>
+            <guid isPermaLink="false">bc89d20c-9e29-4b82-8607-a4c8b669d835</guid>
+            <pubDate>Tue, 23 Aug 2016 22:13:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
