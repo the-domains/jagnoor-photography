@@ -1,17 +1,17 @@
 ---
-description: ''
-dateModified: '2016-08-24T03:44:19.233Z'
-datePublished: '2016-08-24T03:44:41.884Z'
-title: Grand Tetons
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T04:19:20.591Z'
 sourcePath: _posts/2016-08-24-grand-tetons.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-24T04:19:20.004Z'
+title: Grand Tetons
+publisher: {}
+description: ''
+starred: true
+url: grand-tetons/index.html
+_type: Article
 
 ---
 # Grand Tetons
