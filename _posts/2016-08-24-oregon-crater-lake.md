@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T18:25:03.568Z'
+datePublished: '2016-08-24T18:25:05.149Z'
 sourcePath: _posts/2016-08-24-oregon-crater-lake.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T18:12:33.461Z'
+dateModified: '2016-08-24T18:25:04.492Z'
 title: Oregon Crater Lake
 publisher: {}
 description: ''
