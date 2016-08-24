@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T04:07:38.862Z'
+datePublished: '2016-08-24T17:26:25.343Z'
 sourcePath: _posts/2016-08-24-environmental-portraits.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T04:07:25.977Z'
+dateModified: '2016-08-24T17:26:24.156Z'
 title: Environmental Portraits
 id: fdcabc1f-0627-40a0-adff-13d202dfb7c4
 publisher: {}
@@ -19,10 +19,7 @@ _type: Article
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21813e69263a48da9e04463276b2a041a0417e19.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022e0a78-24ca-40a2-a1c2-ac8c776bac7b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2680f8-ccf9-4bc2-b3fc-e841b67618ec.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e715a3-f5b1-4501-90cf-70f447bcc58c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c9afb05-9107-4528-9560-593536b9012b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fca8b40-9516-45dc-b7f9-41533165271e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb0fabad-5e77-4e20-b968-1f2db2f256c3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4c41e5-24c7-467e-9b65-93d8f7a6a234.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41163d99-8fab-43d5-99e0-a1c5c60886d1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31bf96976943f32d83772b2b20bde36d988917c2.jpg)
