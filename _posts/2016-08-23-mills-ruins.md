@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-24T17:31:02.908Z'
+datePublished: '2016-08-24T18:05:10.580Z'
+sourcePath: _posts/2016-08-23-mills-ruins.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T17:31:02.384Z'
+dateModified: '2016-08-24T18:05:10.176Z'
 title: Mills Ruins Minneapolis
 id: bc89d20c-9e29-4b82-8607-a4c8b669d835
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-23-mills-ruins.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: mills-ruins-minneapolis/index.html
+_type: Article
 
 ---
 # Mills Ruins Minneapolis
