@@ -1,16 +1,18 @@
 ---
-datePublished: '2016-08-24T04:07:17.168Z'
+datePublished: '2016-08-24T04:07:38.862Z'
+sourcePath: _posts/2016-08-24-environmental-portraits.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T04:07:16.060Z'
+dateModified: '2016-08-24T04:07:25.977Z'
 title: Environmental Portraits
 id: fdcabc1f-0627-40a0-adff-13d202dfb7c4
 publisher: {}
 description: ''
-sourcePath: _posts/2016-08-24-environmental-portraits.md
 starred: false
-_type: Blurb
+url: environmental-portraits/index.html
+_type: Article
 
 ---
 # Environmental Portraits
@@ -25,4 +27,4 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41163d99-8fab-43d5-99e0-a1c5c60886d1.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31bf96976943f32d83772b2b20bde36d988917c2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea2a9b8c58a93bdce939f701c1483078c5e6bbab.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/53835ace342b00377c4aa1be977bcf43/croprotate.jpg?cropheight=2168&cropwidth=3447&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdd1d925a-b9f0-4f82-975c-c9044eb1173e.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f665c567d5b686a409666be4b7182da47eda5e7.jpg)
