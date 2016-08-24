@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T04:19:52.881Z'
+datePublished: '2016-08-24T04:19:54.595Z'
 sourcePath: _posts/2016-08-23-mills-ruins.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T04:19:52.181Z'
+dateModified: '2016-08-24T04:19:54.079Z'
 title: Mills Ruins
 id: bc89d20c-9e29-4b82-8607-a4c8b669d835
 publisher: {}
