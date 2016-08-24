@@ -23,5 +23,8 @@ navigation:
   - name: Flickr- JagnoorPhotography
     url: 'https://www.flickr.com/photos/jagnoor/'
     type: external
+  - name: Twitter- @JAGpictures
+    url: 'https://twitter.com/JAGpictures'
+    type: external
 title: Jagnoor Photography
 description: 'If a picture is worth a thousand words, then let me share my novel with you'
