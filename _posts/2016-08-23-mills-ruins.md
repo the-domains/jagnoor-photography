@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-08-24T04:19:54.595Z'
-sourcePath: _posts/2016-08-23-mills-ruins.md
-inFeed: true
-hasPage: true
+datePublished: '2016-08-24T17:31:02.908Z'
 author: []
 via: {}
-dateModified: '2016-08-24T04:19:54.079Z'
-title: Mills Ruins
+dateModified: '2016-08-24T17:31:02.384Z'
+title: Mills Ruins Minneapolis
 id: bc89d20c-9e29-4b82-8607-a4c8b669d835
 publisher: {}
 description: ''
 starred: false
-url: mills-ruins/index.html
-_type: Article
+sourcePath: _posts/2016-08-23-mills-ruins.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
-# Mills Ruins
+# Mills Ruins Minneapolis
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6863971-ef81-4508-a0de-7012787aeb28.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f50a7b40-0a33-4b8e-bb10-b2d39960a105.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74e3b1dc-5850-4f5a-8022-7f082c83d493.jpg)
