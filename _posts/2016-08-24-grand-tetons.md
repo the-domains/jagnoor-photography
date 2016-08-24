@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T04:19:20.591Z'
+datePublished: '2016-08-24T04:19:22.104Z'
 sourcePath: _posts/2016-08-24-grand-tetons.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T04:19:20.004Z'
+dateModified: '2016-08-24T04:19:21.453Z'
 title: Grand Tetons
 publisher: {}
 description: ''
