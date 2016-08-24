@@ -20,5 +20,8 @@ navigation:
   - name: Facebook - JagnoorPhotography
     url: 'https://www.facebook.com/jagnoorphotography/'
     type: external
+  - name: Flickr- JagnoorPhotography
+    url: 'https://www.flickr.com/photos/jagnoor/'
+    type: external
 title: Jagnoor Photography
 description: 'If a picture is worth a thousand words, then let me share my novel with you'
