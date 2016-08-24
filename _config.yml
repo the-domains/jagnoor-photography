@@ -1,16 +1,16 @@
-typography_spectrum: 0.6651151455007493
+layout_spectrum: 0.32490407838486135
+typography_spectrum: 0.8375236510764807
 color:
-  brandStrength: 0.8503947607241571
-  lightness: 0.6709196530282497
-  saturation: 0.8078957474790514
-  rhythmicContrast: 0.47455512126907706
+  brandStrength: 0.3794548427686095
+  lightness: 0.539158727042377
+  saturation: 0.051963082514703274
+  rhythmicContrast: 0.918204395333305
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.3476252865511924
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 author:
   name: Jagnoor
   email: jagnoor@msn.com
