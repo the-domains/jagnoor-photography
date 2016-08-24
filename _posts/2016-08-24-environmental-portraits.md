@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-24T03:38:39.609Z'
+datePublished: '2016-08-24T03:38:46.766Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T03:37:45.844Z'
+dateModified: '2016-08-24T03:38:45.778Z'
 title: Environmental Portraits
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-24-environmental-portraits.md
+starred: true
 _type: Blurb
 
 ---
