@@ -17,9 +17,6 @@ author:
   url: 'https://www.facebook.com/jagnoorphotography/'
 name: Jagnoor Singh
 navigation:
-  - name: Flickr- JagnoorPhotography
-    url: 'https://www.flickr.com/photos/jagnoor/'
-    type: external
   - name: Twitter- @JAGpictures
     url: 'https://twitter.com/JAGpictures'
     type: external
