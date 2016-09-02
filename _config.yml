@@ -1,4 +1,3 @@
-layout_spectrum: 0.43452987796626985
 typography_spectrum: 0.5085084408055991
 color:
   brandStrength: 0.35914380685426295
@@ -11,15 +10,13 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.43452987796626985
 author:
   name: Jagnoor
   email: jagnoor@msn.com
   url: 'https://www.facebook.com/jagnoorphotography/'
 name: Jagnoor Singh
 navigation:
-  - name: Facebook - JagnoorPhotography
-    url: 'https://www.facebook.com/jagnoorphotography/'
-    type: external
   - name: Flickr- JagnoorPhotography
     url: 'https://www.flickr.com/photos/jagnoor/'
     type: external
